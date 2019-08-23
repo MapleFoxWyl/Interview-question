@@ -1,0 +1,60 @@
+简历：
+1. 简单的信息介绍
+    - 学历：本科
+    - 专业：计算机相关专业，可写
+
+1.5 工作经历
+    - 1. 之前无关的就别说了
+
+2. 技能树
+    - 1. python base
+    - 2. mysql,
+    - 3. redis mongodb
+    - 4. html css js jquery.....
+    - 5. django, restful api, ajax, (flask),
+    - 6. linux
+    - 7. http, tcp/ip, udp
+    - 8. datastructrue, sort, find
+    - 9. (multi)process, (multi)thread, epoll ...
+    - 10. oop...
+    - 11. 项目部署(nginx, git, github, aliyun, virtualenv)
+    - 12. cookie, session, token
+    - 13. crawl
+
+    1. 熟悉python编程基础，如装饰器，生成器，。，，，
+    2. 熟悉mysql数据库操作，
+    3. 熟悉html， css，  js 等前端技能
+    4. 掌握django框架，ress。。。。。
+    5. 掌握linux基本命令
+    6. 熟悉http基本原理，tcp/ip网络结构
+    7. 了解基础数据结构，基础排序算法
+    8. 掌握python多进程，对线程技术
+    9. 熟悉面向对象的思想，掌握oop编程
+    10. 掌握cookie, session, token
+    11. 掌握nginx + uwsgi + Django 的阿里云部署
+    12。 掌握基础爬虫
+3. 项目
+    - 1. 名称(产品)
+    - 2. 简介
+        - 1. 为啥要做(需求，业务环境)
+        - 2. 通过这个项目，解决了什么问题(给公司带来了多少利润，工作效率是否提高)
+    - 2.5 功能介绍
+    - 3. 个人职责
+        - 1. 你在项目中担任的角色，
+        - 2. 负责的模块功能
+        - 3. 遇到的问题
+    - 4. 技能介绍
+        - 1. 开发周期
+        - 2. 
+        - 3. 
+
+
+
+
+
+
+
+
+
+
+
